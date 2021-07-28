@@ -2318,14 +2318,14 @@ body.lock {
 @media (max-width: 580px) {
   .blog__card {
     -webkit-box-flex: 0;
-    -ms-flex: 0 1 80%;
-    flex: 0 1 80%; } }
+    -ms-flex: 0 1 70%;
+    flex: 0 1 70%; } }
 
 @media (max-width: 480px) {
   .blog__card {
     -webkit-box-flex: 0;
-    -ms-flex: 0 1 90%;
-    flex: 0 1 90%; } }
+    -ms-flex: 0 1 100%;
+    flex: 0 1 100%; } }
 
 @media (max-width: 380px) {
   .blog__card {
