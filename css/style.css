@@ -2607,7 +2607,8 @@ body.lock {
 
 .footer__list_main > .footer__link a {
   color: #FFFFFF; }
-
+.footer__link a:hover {
+  text-decoration: underline;}
 @media (max-width: 860px) {
   .footer__body {
     -ms-flex-wrap: wrap;
