@@ -964,13 +964,17 @@ body.lock {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  cursor: pointer; }
+  cursor: pointer;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
 
 .tab__menu__link img {
   -webkit-box-flex: 0;
   -ms-flex: 0 1 24px;
   flex: 0 1 24px;
-  margin-bottom: 6px; }
+  margin-bottom: 6px; 
+  min-widht: 25%}
 
 .tab__menu__link span {
   font-family: Work Sans;
