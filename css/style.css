@@ -1035,7 +1035,7 @@ body.lock {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between; 
-  display:none;  }
+  display:none !important;  }
 
 /* Активная точка */
 /* Элемент точки */
